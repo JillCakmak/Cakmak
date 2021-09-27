@@ -2,7 +2,7 @@
 title: WHY Typologically?
 image: ../uploads/dariusz-sankowski-3oiymgdkj6k-unsplash.jpg
 subtitle: What Typologically really is about, a mystery solved
-permalink: https://typologically.netlify.app/Whytypologically?/
+permalink: /Whytypologically?
 date: 2021-09-25T14:30:09.511Z
 show: true
 layout: page
