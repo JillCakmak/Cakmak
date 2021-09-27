@@ -29,10 +29,10 @@ In other words, the company constantly showed their skills through its logo; the
 
  Since their massive impact on the industry and their success as a brand, they reuse their logo with slight changes for every area, where they develop new media products. Such as the *Disney+* or the *Disney Channel* logo.
 
-![Disney Logo in-between street commercial](../uploads/denys-nevozhai-p1uq-5mqgce-unsplash.jpg "Disney Logo in-between street commercial")
+![Disney Logo in-between street commercial](../uploads/denys-nevozhai-p1uq-5mqgce-unsplash.jpg "Disney Logo in-between street commercial; Credits:Photo by <a href=\"https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Denys Nevozhai</a> on <a href=\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>   ")
 
 When you look at the logo, from a very personal perspective, you might connect special feelings from your childhood with it. For many people, *Disney* with its castle evokes beautifully dreamy fantasies and embraces the doorstep to childhood dreams. It's psychologically proven that your brain connects different aspects of your childhood experience with something positive. This is why adults tend to re-experience childhood memories, to evoke the positive emotions they had a couple of years before. 
 
-![Walt Disney and Mickey Mouse](../uploads/guillermo-gr-mvabciq4lby-unsplash.jpg "Walt Disney and Mickey Mouse")
+![Walt Disney and Mickey Mouse](../uploads/guillermo-gr-mvabciq4lby-unsplash.jpg "Walt Disney and Mickey Mouse; Credits:Photo by <a href=\"https://unsplash.com/@quickps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Quick PS</a> on <a href=\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>   ")
 
 Let me know in the comments how you feel about *Disney* and its brand identity? Are you a fan or could *Walt Disney* never catch you into his dreamy Universe?
