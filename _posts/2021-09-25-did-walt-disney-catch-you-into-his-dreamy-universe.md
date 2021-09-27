@@ -2,10 +2,14 @@
 layout: post
 title: Did Walt Disney Catch You Into His Dreamy Universe?
 date: 2021-09-25T14:51:37.854Z
-image: ../uploads/quick-ps-5uyyjktyvsi-unsplash.jpg
+image: ../uploads/thomas-kelley-5ytjgrntli4-unsplash.jpg
 title_color: "#618fce"
 caption: The Disney Logo and it's logic
 comments: true
+tags:
+  - Design
+  - Media
+  - Cinema
 ---
 **Did you know that the Brand image of Disney over nearly 100 years just slightly changed?** **Have you ever thought of the impact the *Disney* logo makes on you before starting a movie? Have you been in the cinema, staring at the wall, while the heavily detailed and up-to-date 3D animation of the Disney castle came up? Your body buzzing for adrenalin and excitement to see the new work of creative heads?** 
 
@@ -25,6 +29,10 @@ In other words, the company constantly showed their skills through its logo; the
 
  Since their massive impact on the industry and their success as a brand, they reuse their logo with slight changes for every area, where they develop new media products. Such as the *Disney+* or the *Disney Channel* logo.
 
+![Disney Logo in-between street commercial](../uploads/denys-nevozhai-p1uq-5mqgce-unsplash.jpg "Disney Logo in-between street commercial")
+
 When you look at the logo, from a very personal perspective, you might connect special feelings from your childhood with it. For many people, *Disney* with its castle evokes beautifully dreamy fantasies and embraces the doorstep to childhood dreams. It's psychologically proven that your brain connects different aspects of your childhood experience with something positive. This is why adults tend to re-experience childhood memories, to evoke the positive emotions they had a couple of years before. 
+
+![Walt Disney and Mickey Mouse](../uploads/guillermo-gr-mvabciq4lby-unsplash.jpg "Walt Disney and Mickey Mouse")
 
 Let me know in the comments how you feel about *Disney* and its brand identity? Are you a fan or could *Walt Disney* never catch you into his dreamy Universe?
