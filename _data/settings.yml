@@ -6,8 +6,8 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 60vmax
 navbarheight: 85px
-logo: ../uploads/typologicallysplash.png
-favicon: ../uploads/typologicallysplash.png
-gridlayout: false
+logo: ../uploads/typofinal.png
+favicon: ../uploads/typofinal.png
+gridlayout: true
 fixednavbar: false
 upzoom: true
