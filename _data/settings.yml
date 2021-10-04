@@ -6,8 +6,8 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 85px
-logo: ../uploads/typologicallylogo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/typologicallysplash.png
+favicon: ../uploads/typologicallysplash.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
