@@ -2,7 +2,7 @@
 layout: post
 title: Apples Typological Mystery
 date: 2021-09-27T15:16:32.774Z
-image: ../uploads/emanuel-ekstrom-hxlkmdspoa0-unsplash.jpg
+image: ../uploads/applenewyork.png
 title_color: "#ffffff"
 comments: true
 tags:
