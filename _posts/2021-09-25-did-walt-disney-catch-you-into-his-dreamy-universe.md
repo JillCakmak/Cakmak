@@ -2,7 +2,7 @@
 layout: post
 title: Did Walt Disney Catch You Into His Dreamy Universe?
 date: 2021-09-25T14:51:37.854Z
-image: ../uploads/thomas-kelley-5ytjgrntli4-unsplash.jpg
+image: ../uploads/disneycastle.png
 title_color: "#f3c82e"
 caption: The Disney Logo and it's logic
 comments: true
