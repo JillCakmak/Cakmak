@@ -5,7 +5,7 @@ header_feature_image: ../uploads/typologically.jpg
 header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 60vmax
-navbarheight: 85px
+navbarheight: 55px
 logo: ../uploads/typofinal.png
 favicon: ../uploads/typofinal.png
 gridlayout: true
