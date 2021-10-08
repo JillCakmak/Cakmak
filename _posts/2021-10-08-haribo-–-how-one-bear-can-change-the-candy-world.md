@@ -3,7 +3,7 @@ layout: post
 title: Haribo – How one bear can change the candy world
 date: 2021-10-08T17:06:31.827Z
 image: ../uploads/dan-cristian-padure-3x7akze5yec-unsplash.jpg
-title_color: "#000000"
+title_color: "#ffd153"
 comments: true
 tags:
   - Design
