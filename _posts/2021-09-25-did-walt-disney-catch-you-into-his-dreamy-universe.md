@@ -25,6 +25,8 @@ First, the line of ‘productions’ was added in a simple low contrast, condens
 
 It wasn't until 1985, that the famous illustration of the *Disney* castle in the background was edited. The, so far, last change was made in 2006. Again, just the edit of the castle was reframed and modernized. It’s now illustrated with much more detail in a square frame. 
 
+![The Disney Logo Development](../uploads/disney-logo-evolution.jpg "The Disney Logo Development; credits:logomyway.com")
+
 What’s the logic behind that? *Typologically* thinking is it clear that the slight adjustments during the time helped *Disney* to support their brand identity, as well it will be recognizable over generations. 
 
 > Disney’s logo design is dedicated to showing their advances in graphics and animation’ (Logomyway)
@@ -33,9 +35,9 @@ In other words, the company constantly showed its skills through its logo; the f
 
 Since their massive impact on the industry and their success as a brand, they reuse their logo with slight changes for every area, where they develop new media products. Such as the *Disney+* or the *Disney Channel* logo.
 
-![Walt Disney Logo on a Cup](../uploads/valentin-girard-ttq0zbtxa8a-unsplash.jpg "Walt Disney Logo on a Cup; credits:Photo by <a href=\\"https://unsplash.com/@valentingird?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Valentin GIRARD</a> on <a href=\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\">Unsplash</a>   ")
+![Walt Disney Logo on a Cup](../uploads/valentin-girard-ttq0zbtxa8a-unsplash.jpg "Walt Disney Logo on a Cup; credits:Photo by <a href=\\\"https://unsplash.com/@valentingird?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Valentin GIRARD</a> on <a href=\\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Unsplash</a>   ")
 
-![Disney Logo in-between street commercial](../uploads/denys-nevozhai-p1uq-5mqgce-unsplash.jpg "Disney Logo in-between street commercial; Credits:Photo by <a href=\\\"https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Denys Nevozhai</a> on <a href=\\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Unsplash</a>   ")
+![Disney Logo in-between street commercial](../uploads/denys-nevozhai-p1uq-5mqgce-unsplash.jpg "Disney Logo in-between street commercial; Credits:Photo by <a href=\\\\"https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Denys Nevozhai</a> on <a href=\\\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Unsplash</a>   ")
 
 ### Spot the Difference?!
 
@@ -47,7 +49,7 @@ Wanna have a look at their past history? Check this youtube video out. It will r
 
 When you look at the logo, from a very personal perspective, you might connect special feelings from your childhood with it. For many people, *Disney* with its castle evokes beautifully dreamy fantasies and embraces the doorstep to childhood dreams. It's psychologically proven that your brain connects different aspects of your childhood experience with something positive. This is why adults tend to re-experience childhood memories, to evoke the positive emotions they had a couple of years before. 
 
-![Walt Disney and Mickey Mouse](../uploads/guillermo-gr-mvabciq4lby-unsplash.jpg "Walt Disney and Mickey Mouse; Credits:Photo by <a href=\\\"https://unsplash.com/@quickps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Quick PS</a> on <a href=\\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\">Unsplash</a>   ")
+![Walt Disney and Mickey Mouse](../uploads/guillermo-gr-mvabciq4lby-unsplash.jpg "Walt Disney and Mickey Mouse; Credits:Photo by <a href=\\\\"https://unsplash.com/@quickps?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Quick PS</a> on <a href=\\\\"https://unsplash.com/s/photos/disney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\\\\">Unsplash</a>   ")
 
 **Let me know in the comments how you feel about *Disney* and its brand identity? Are you a fan or could *Walt Disney* never catch you into his dreamy Universe?**
 
