@@ -1,6 +1,6 @@
 ---
 title: Why Typologically?
-image: ../uploads/thejourneysmall.jpg
+image: ../uploads/thejourneypink.jpg
 subtitle: What Typologically really is about, a mystery solved
 permalink: /Whytypologically
 date: 2021-09-25T14:30:09.511Z
