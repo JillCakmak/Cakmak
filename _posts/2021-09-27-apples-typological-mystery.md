@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apples Typological Mystery
+title: Apple's Typological Mystery
 date: 2021-09-27T15:16:32.774Z
 image: ../uploads/applenewyork.png
 title_color: "#ffffff"
@@ -13,11 +13,11 @@ tags:
 ---
 **Have you realized that the brand Apple does not use any extra typography within its design? Do you know what their typography is, next to their famous apple icon? Let’s let Typologically find out.** 
 
-**Apple, nowadays, is a very popular wide-ranging brand. In the past the company struggled with ups and downs; however, the Logo and its typography stand out. But what do we know about the apple logo? And why do we not see its typography in the first place?**
+**Apple, nowadays, is a very popular wide-ranging brand. In the past the company struggled with ups and downs; however, the logo and its typography stand out. But what do we know about the apple logo? And why do we not see its typography in the first place?**
 
 ## Logo History
 
-Its companies first logo wasn’t the apple itself. It was *Newton* under the famous apple tree. Who of you did his physics homework and knows what *Newton’s* discovery was? 
+The company's first logo wasn’t the apple itself. It was *Newton* under the famous apple tree. Which of you did your physics homework and knows what *Newton’s* discovery was? 
 
 Indeed–the law of gravity. 
 
@@ -29,23 +29,19 @@ In the creation process *Rob Janoff*, the designer, realized some difficulties. 
 
  Well, that explains the logo but what is about the typography? 
 
-## *Apples*-font mystery; solved
+## *Apple's* font mystery; solved
 
-To the basic and minimal design of the icon was a suitable font needed. *Apple* quickly realized that it was not necessary to spell out their company name. So, its logo was quickly introduced in its font as well. 
+A suitable font was needed to match the basic and minimal design of the icon. *Apple* quickly realized that it was not necessary to spell out their company name. So, its logo was quickly introduced in its font as well. 
 
-![Several Apple products with its sleek design and typography](../uploads/julian-o-hayon-bs-zngh79ds-unsplash.jpg "Several Apple products with its sleek design and typography; Photo by Julian O'hayon on Unsplash")
+![Several Apple products with their sleek design and typography](../uploads/julian-o-hayon-bs-zngh79ds-unsplash.jpg "Several Apple products with their sleek design and typography; Photo by Julian O'hayon on Unsplash")
 
-The font *apple* uses are called Myriad, it is a sans serif font. It is famous for its clean shapes and precise letters. The width and weight are regular, its contrast and x-height low. For the user, it is very easy to read, which at the same time underlines the brand image of *apple* with its minimal sleek design and user-friendly surfaces’. 
+The font *apple* uses is called Myriad, it is a Sans Serif font. It is famous for its clean shapes and precise letters. The width and weight are regular, its contrast and x-height low. For the user, it is very easy to read, which at the same time underlines the brand image of *apple* with its minimal sleek design and user-friendly surfaces’. 
 
- 
+*Apple's* voice outlines in every possible way (logo and typography) its brand image. It achieves this with a focus on IT, digital innovation, and luxury. Their products are known for trustworthy technologies, easy surfaces, and consumer-friendly luxury. Its designs are clean and straight forward giving the feeling of a traceable company, evoking trust. 
 
-*Apple's* voice outlines in every possible way (Design of logo and typography) its brand image. It is with its focus on IT and tech, digital and luxury. Their products are known for trustworthy technologies, easy surfaces, and consumer-friendly luxury. Its designs are clean and straight forward giving the feeling of a traceable company, evoking trust. 
-
-Indeed, the *apple* website promotes with the following quote: 
+Indeed, the *apple* website promotes this trust with the following quote:: 
 
 > **“We do the right thing, even when it’s not easy.” ~ Tim Cook**
-
-
 
 ### Final thoughts
 
@@ -53,13 +49,7 @@ In conclusion, *apple* did a wonderful job in its design and brand development. 
 
 ![Apple logo casually placed at a shops wall](../uploads/alisina-elyasi-t5a2h-wuvfi-unsplash.jpg "Apple logo casually placed at a shops wall; Photo by Alisina Elyasi on Unsplash")
 
-
-
-
-
-**What do you think is *apple* as trustworthy as its user-friendly surface? And did you realize what kind of typography stands next to the world-famous icon?** 
-
- 
+**What do you think? Is apple as trustworthy as its user-friendly surfaces? And did you realize what kind of typography stands next to the world-famous icon?** 
 
 Sources:
 
