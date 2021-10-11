@@ -1,6 +1,6 @@
 ---
 title: Why Typologically?
-image: ../uploads/aboutcentred.jpg
+image: ../uploads/clemens-van-lay-un1s8volrc0-unsplash.jpg
 subtitle: What Typologically really is about, a mystery solved
 permalink: /Whytypologically
 date: 2021-09-25T14:30:09.511Z
@@ -33,4 +33,4 @@ Take care everyone and have as much fun as me, while exploring for you.
 
 xxx Jill
 
-![The Journey is on](../uploads/clemens-van-lay-un1s8volrc0-unsplash.jpg "The Journey is on; credits: Photo by Clemens van Lay on Unsplash")
+![I promise it won't be boring](../uploads/aboutpicture.jpg "I promise it won't be boring;Photo by LOGAN WEAVER on Unsplash")
