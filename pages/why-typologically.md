@@ -11,7 +11,7 @@ layout: page
 
 I created that website to logically explain everyday typography–So far so good. 
 
-#### **But why?** 
+#### **But why?**
 
 The 'why' question is the most essential question I would ask myself every day. Typography is everywhere around us. To observe some little things in life might make it way more exciting to you! (At least I am happy about every new logic behind a small thing) 
 
@@ -32,3 +32,5 @@ So, please let me know what you think and what topics I should cover as well!
 Take care everyone and have as much fun as me, while exploring for you.
 
 xxx Jill
+
+![The Journey is on](../uploads/clemens-van-lay-un1s8volrc0-unsplash.jpg "The Journey is on; credits: Photo by Clemens van Lay on Unsplash")
