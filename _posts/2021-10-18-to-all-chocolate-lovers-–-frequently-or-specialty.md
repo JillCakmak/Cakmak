@@ -6,9 +6,7 @@ image: ../uploads/charisse-kenion-twe8ib-cnxy-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 ---
-**Is chocolate just chocolate? Or do you have specific preferences regarding brand and look? The difference between two famous beloved chocolate companies will be outlined below. Cadbury vs. Lindt in what team are you? Let's find out!**
-
-
+**Is chocolate just chocolate? Or do you have specific preferences regarding brand and look? The difference between the two famous beloved chocolate companies will be outlined below. Cadbury vs. Lindt in what team are you? Let's find out!**
 
 ## Choco History
 
@@ -21,8 +19,6 @@ Both businesses achieved major steps in the development of chocolate. *Cadbury* 
 So what is the difference between the brands if both achieved milestones in chocolate production? 
 
 Let's typologically analyse the cocoa of the bean. 
-
-
 
 #### Logo&Typography
 
@@ -46,6 +42,18 @@ The famous Cadbury egg, for example, is very colourful, inviting especially kids
 
 ![Cadbury Cream Egg](../uploads/meghan-rodgers-i8yp2omfn9w-unsplash.jpg "Cadbury Cream Egg;Photo by Meghan Rodgers on Unsplash")
 
-
-
 ##### 2. Lindt&Sprüngli
+
+Lindt&Sprungli; nowadays a cooperative company, was, as mentioned above, founded by two brothers. Even though the company's cooperation changed its partners a couple of times, due to licensing and takeovers, the brand and logo never really changed. 
+
+![The Lindt logo](../uploads/lindt_logo.png "The Lindt logo, photo by: Chocoladefabriken Lindt & Sprüngli AG")
+
+Of course, its logo wasn't as colorful and precise at the beginning. But its handwritten italic condensed font, regular weight, and high contrast were always present.  The dragon next to the Lindt signature is originally part of the family weapon, and some people assume that the dragon symbolizes the barrier to let the rest of the signature melt away.
+
+> "The dragon is there, watching, making sure everything remains controlled and premium. That's the reason why you can indulge in Lindt chocolate without fearing of losing control." \[J.Sharp 2018]
+
+A thin line separates the signature with the since 1845 description of the chocolatiers. Written in high caps and sans serif font. 
+
+The french language and the different font clearly separate it from the company name. The usage of the French language makes it stand out it's less reachable. Through that distance, a feeling of premium content and luxury is created. 
+
+This is also underlined by the thin, delicate line and usage of golden colour.
