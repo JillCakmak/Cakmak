@@ -88,23 +88,13 @@ For a broader understanding here are some examples of the *Lindt&Sprüngli* prod
 
 **Typologically think about it and let me know in the comments!**
 
-
-
 Further Reading and Reference:
 
-
-
-Chocoladefabriken Lindt & Sprüngli AG. “The Lindt & Sprüngli History: Timeline & Milestones | Lindt & Sprüngli.”\[online] Available at: *www.lindt-Spruengli.com*, www.lindt-spruengli.com/about-us/history.
-
-
+Chocoladefabriken Lindt & Sprüngli AG. “The Lindt & Sprüngli History: Timeline & Milestones Lindt & Sprüngli.”\[online] Available at: *www.lindt-Spruengli.com*, www.lindt-spruengli.com/about-us/history.
 
 Mondelez Australia. “Our History.”\[online] Available at: *www.cadbury.com.au*, www.cadbury.com.au/our-history.
 
-
-
 Nuñez, Leonor. “5 Lessons from the New Cadbury Logo.” *Logo.Bot Blog*, 18 Aug. 2020, \[online] Available at: www.logo.bot/blog/5-lessons-from-the-new-cadbury-logo/. Accessed 25 Oct. 2021.
-
-
 
 Sharp, Jon. “What Does the Dragon in the Lindt Logo Signify? - Quora.”\[online] Available at: *www.quora.com*, 2018, www.quora.com/What-does-the-dragon-in-the-Lindt-logo-signify.
 
