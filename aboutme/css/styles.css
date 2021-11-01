@@ -1,0 +1,164 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: rgb(3, 45, 53);
+color: white;
+
+ /*background-image: url(images/jeremy-bishop-G9i_plbfDgk-unsplash.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: left;*/ 
+}
+
+h1{
+  margin-left: auto;
+  font-size: 80px;
+  
+
+}
+ h2 {
+    margin-left: auto;
+    margin-bottom: 70px;
+    text-decoration: underline; 
+    text-decoration-style: dotted; 
+    text-decoration-thickness: 2px;
+   
+ } 
+ h3 {
+    margin: auto;
+    margin-bottom: 70px;
+    text-transform: uppercase;
+ 
+}
+    p {
+    margin-left: 70px;
+    margin-bottom: 70px;
+    line-height: 2em;
+}
+
+
+
+
+ul, li {
+    margin-left: 70px;
+    line-height: 2em;
+}
+
+.Profile  {
+    width: 50%; 
+    height: auto;
+    margin-left: auto;
+}
+
+
+ h3 {
+    color:rgb(232, 11, 66)
+
+ }
+
+ 
+
+div img {
+   display: inline-block;
+   width: 250px;
+   height: 250px;
+   margin-left: 70px;
+   margin-bottom: 35px;
+    
+}
+div:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+div Initials {
+    font-weight:bold;
+
+}
+
+.MeJill {
+margin-left:120;
+border-bottom:4px dotted rgb(255, 255, 255);
+
+
+}
+
+.WhatIdid {
+    margin-left:120;
+    padding:10px;
+    border-bottom:4px dotted rgb(255, 255, 255);
+    
+
+    } 
+
+.WhatIlove {
+    margin-left:120;
+    padding:10px;
+    border-bottom:4px dotted rgb(255, 255, 255);
+   
+}
+.Images {
+    margin-left:120;
+    padding:10px;
+    border-bottom:4px dotted rgb(255, 255, 255);
+   
+  
+
+}
+.Ending {
+    margin-left:120;
+    padding:10px; 
+    line-height: 2em;
+    
+}
+
+.Initials {
+    font-family:cursive;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+
+div {
+   padding: 10px;
+    border: 5px rgb(255, 255, 255);
+    margin:auto;
+    
+}
+
+
+.homebutton {
+
+    width: 200px;
+    padding-top: 70px;
+    padding-right: 70px;
+    float:right;
+
+}
+	
+.homebutton a {
+    display: block;
+    margin-bottom: 4px;
+    text-align: center;
+    border: 2px dotted #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    cursor: pointer;
+    transition: color,border-color ease 0.3s;
+    border-radius: 2em;
+}
+.homebutton a:hover {
+    border-color: rgb(232, 11, 66);
+    color: rgb(232, 11, 66);
+    text-decoration: none;
+}
+
+
+main{
+    width: 100%;
+    max-width: 1000px;
+    margin:auto;
+
+
+}
+
