@@ -46,6 +46,8 @@ The famous *Cadbury* egg, for example, is very colourful, inviting especially ki
 
 Lindt&Sprüngli; nowadays a cooperative company, was, as mentioned above, founded by two brothers. Even though the company's cooperation changed its partners a couple of times, due to licensing and takeovers, the brand and logo never really changed. 
 
+![Lindt golden logo](../uploads/lindt_logo.png "Lindt golden logo; Photo by Lindt&Spruengli Ltd.")
+
 Of course, its logo wasn't as colourful and precise at the beginning. But its handwritten italic condensed font, regular weight, and high contrast were always present.  The dragon next to the Lindt signature is originally part of the family weapon, and some people assume that the dragon symbolizes the barrier to let the rest of the signature melt away.
 
 > "The dragon is there, watching, making sure everything remains controlled and premium. That's the reason why you can indulge in Lindt chocolate without fearing of losing control." \[J.Sharp 2018]
@@ -82,25 +84,9 @@ For a broader understanding here are some examples of the *Lindt&Sprüngli* prod
 
 ![Gold wrapped chocolate pralines by Lindt](../uploads/yves-scheuber-v9ced2puuy-unsplash.jpg "Gold wrapped chocolate pralines by Lindt; Photo by Yves Scheuber on Unsplash")
 
-
-
-
-
 **So what do you think about both brands? Did you know that each of them achieved some major milestones in chocolate production! Who do you think created a better brand image, or would you argue that they are not comparable?** 
 
 **Typologically think about it and let me know in the comments!**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -108,12 +94,18 @@ Further Reading and Reference:
 
 
 
-Chocoladefabriken Lindt & Sprüngli AG. “The Lindt & Sprüngli History: Timeline & Milestones | Lindt & Sprüngli.” *Www.lindt-Spruengli.com*, www.lindt-spruengli.com/about-us/history.
+Chocoladefabriken Lindt & Sprüngli AG. “The Lindt & Sprüngli History: Timeline & Milestones | Lindt & Sprüngli.”\[online] Available at: *www.lindt-Spruengli.com*, www.lindt-spruengli.com/about-us/history.
 
-Mondelez Australia. “Our History.” *Www.cadbury.com.au*, www.cadbury.com.au/our-history.
 
-Nuñez, Leonor. “5 Lessons from the New Cadbury Logo.” *Logo.Bot Blog*, 18 Aug. 2020, www.logo.bot/blog/5-lessons-from-the-new-cadbury-logo/. Accessed 25 Oct. 2021.
 
-Sharp, Jon. “What Does the Dragon in the Lindt Logo Signify? - Quora.” *Www.quora.com*, 2018, www.quora.com/What-does-the-dragon-in-the-Lindt-logo-signify.
+Mondelez Australia. “Our History.”\[online] Available at: *www.cadbury.com.au*, www.cadbury.com.au/our-history.
+
+
+
+Nuñez, Leonor. “5 Lessons from the New Cadbury Logo.” *Logo.Bot Blog*, 18 Aug. 2020, \[online] Available at: www.logo.bot/blog/5-lessons-from-the-new-cadbury-logo/. Accessed 25 Oct. 2021.
+
+
+
+Sharp, Jon. “What Does the Dragon in the Lindt Logo Signify? - Quora.”\[online] Available at: *www.quora.com*, 2018, www.quora.com/What-does-the-dragon-in-the-Lindt-logo-signify.
 
 ‌
